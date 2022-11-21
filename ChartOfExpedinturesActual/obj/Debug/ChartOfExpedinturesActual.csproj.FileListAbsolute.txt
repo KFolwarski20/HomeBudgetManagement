@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\bin\Debug\ChartOfExpedinturesActual.exe.config
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\bin\Debug\ChartOfExpedinturesActual.exe
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\bin\Debug\ChartOfExpedinturesActual.pdb
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\obj\Debug\ChartOfExpedinturesActual.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\obj\Debug\ChartOfExpedinturesActual.Form1.resources
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\obj\Debug\ChartOfExpedinturesActual.Properties.Resources.resources
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\obj\Debug\ChartOfExpedinturesActual.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\obj\Debug\ChartOfExpedinturesActual.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\obj\Debug\ChartOfExpedinturesActual.exe
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\obj\Debug\ChartOfExpedinturesActual.pdb
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\bin\Debug\Konrad_App.exe
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\bin\Debug\Konrad_App.pdb
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\bin\Debug\Konrad_App.exe.config
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\ChartOfExpedinturesActual\obj\Debug\ChartOfExpedinturesActual.csproj.CopyComplete

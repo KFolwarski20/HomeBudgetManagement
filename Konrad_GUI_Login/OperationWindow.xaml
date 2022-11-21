@@ -1,0 +1,28 @@
+﻿<Window x:Class="Konrad_GUI_Login.OperationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Konrad_GUI_Login"
+        mc:Ignorable="d"
+        Title="OperationWindow" Height="300" Width="600">
+    <Grid Background="#FFFBFFEA">
+        <Label Name="lblDateOfOperation" Content="Date of operation" HorizontalAlignment="Left" Height="35" Margin="21,41,0,0" VerticalAlignment="Top" Width="216" FontSize="18"/>
+        <Label Name="lblTypeOfOperation" Content="Type of operation" HorizontalAlignment="Left" Height="35" Margin="21,90,0,0" VerticalAlignment="Top" Width="216" FontSize="18"/>
+        <Label Name="lblValueOfOperation" Content="Value of operation" HorizontalAlignment="Left" Height="35" Margin="21,135,0,0" VerticalAlignment="Top" Width="216" FontSize="18"/>
+        <TextBox Name="txtDateOfOperation" HorizontalAlignment="Left" Height="35" Margin="294,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="252" FontSize="18"/>
+        <TextBox Name="txtValueOfOperation" HorizontalAlignment="Left" Height="35" Margin="294,135,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="252" FontSize="18"/>
+        <Button Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Height="36" Margin="294,198,0,0" VerticalAlignment="Top" Width="252" Click="btnCancel_Click" Background="#FFC7F9F2"/>
+        <Button Name="btnConfirm" Content="Confirm" HorizontalAlignment="Left" Height="36" Margin="21,198,0,0" VerticalAlignment="Top" Width="252" Click="btnConfirm_Click" Background="#FFC7F9F2"/>
+        <ComboBox Name="cbTypeOfOperation" HorizontalAlignment="Left" Height="35" Margin="294,90,0,0" VerticalAlignment="Top" Width="252" FontSize="18">
+            <ComboBoxItem FontSize="18">Eating</ComboBoxItem>
+            <ComboBoxItem FontSize="18">Fuel</ComboBoxItem>
+            <ComboBoxItem FontSize="18">Clothes</ComboBoxItem>
+            <ComboBoxItem FontSize="18">Learning</ComboBoxItem>
+            <ComboBoxItem FontSize="18">Bills</ComboBoxItem>
+            <ComboBoxItem FontSize="18">Salary</ComboBoxItem>
+            <ComboBoxItem FontSize="18">Receivables</ComboBoxItem>
+            <ComboBoxItem FontSize="18">Other</ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</Window>

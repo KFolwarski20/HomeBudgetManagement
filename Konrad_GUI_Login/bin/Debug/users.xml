@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<UserList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list_of_users>
+    <LoginData>
+      <Login>KonradF</Login>
+      <Password>Konrad16092001</Password>
+    </LoginData>
+  </list_of_users>
+</UserList>

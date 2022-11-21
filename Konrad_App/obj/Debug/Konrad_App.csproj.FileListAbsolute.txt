@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\Konrad_App\bin\Debug\Konrad_App.exe.config
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\Konrad_App\bin\Debug\Konrad_App.exe
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\Konrad_App\bin\Debug\Konrad_App.pdb
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\Konrad_App\obj\Debug\Konrad_App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\Konrad_App\obj\Debug\Konrad_App.exe
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\Konrad_App\obj\Debug\Konrad_App.pdb
+C:\Users\Admin\Documents\Konrad Studia\Programowanie C#\Application\Konrad_App\obj\Debug\Konrad_App.csproj.AssemblyReference.cache

@@ -15,7 +15,11 @@ After this, your account has been created and you can add operations.
 
 ![image](https://user-images.githubusercontent.com/90961384/203163292-b67f9cc5-1490-44cc-ad1e-de17d096a2c8.png)
 
-An example, you can also see a chart:
+You can see an example below, with operation history (sorted at the top from the oldest):
+
+![image](https://user-images.githubusercontent.com/90961384/203164291-e442ec67-761b-431b-8d18-c6408e1983a1.png)
+
+For example, you can also see a chart:
 
 ![image](https://user-images.githubusercontent.com/90961384/203163205-da51dffd-9b21-4d1f-8b23-71626595f132.png)
 
